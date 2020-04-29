@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://example.org/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Apr 2020 11:58:45 -0400</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test</title>
+      <link>http://example.org/posts/test/</link>
+      <pubDate>Tue, 28 Apr 2020 11:58:45 -0400</pubDate>
+      
+      <guid>http://example.org/posts/test/</guid>
+      <description>yoo</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://example.org/posts/my-first-post/</link>
+      <pubDate>Sun, 26 Apr 2020 17:54:17 -0400</pubDate>
+      
+      <guid>http://example.org/posts/my-first-post/</guid>
+      <description>You’ll find this post in your content/posts directory.
+To add new posts, simply add a file in the content/posts directory that follows the convention name-of-post.ext and includes the necessary front matter. Take a look at the source for this post to get an idea of how it works.
+Hugo also offers powerful support for code snippets:
+Check out the Hugo docs for more info on how to get the most out of Hugo.</description>
+    </item>
+    
+  </channel>
+</rss>
