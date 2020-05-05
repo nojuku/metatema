@@ -1,0 +1,4 @@
+baseURL = "http://me.org/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "tema"
