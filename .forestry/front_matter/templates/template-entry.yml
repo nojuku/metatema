@@ -1,5 +1,5 @@
 ---
-label: Template entry
+label: Post template (cat + tag)
 hide_body: true
 fields:
 - type: text
