@@ -2,4 +2,3 @@ baseURL = "http://me.org/"
 languageCode = "en-us"
 title = "metatema"
 theme = "tema"
-pluralizeListTitles = false
