@@ -11,3 +11,8 @@ fields:
 - type: list
   name: categories
   label: categories
+- name: tags
+  type: tag_list
+  default: []
+  label: tags
+  description: тэги чтобы связать друг с другом посты в разных категориях
