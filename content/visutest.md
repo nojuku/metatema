@@ -1,7 +1,7 @@
 ---
-title: "Visutest"
-date: 2020-05-06T01:18:52-04:00
-draft: true
-categories: ["visu"]
----
+title: Visutest
+date: 2020-05-06T05:18:52.000+00:00
+categories:
+- visu
 
+---
