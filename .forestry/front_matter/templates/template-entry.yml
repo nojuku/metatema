@@ -16,5 +16,14 @@ fields:
   default: []
   label: tags
   description: тэги чтобы связать друг с другом посты в разных категориях
+- name: Text
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Основной текст
 pages:
 - content/steve-reich.md
