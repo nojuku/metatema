@@ -1,6 +1,7 @@
 ---
-label: Post template with text
+label: Post template with text and tags
 hide_body: false
+display_field: title
 fields:
 - type: text
   name: title
@@ -11,3 +12,8 @@ fields:
 - type: list
   name: categories
   label: categories
+- name: tags
+  type: tag_list
+  default: []
+  label: tags
+  description: Tags to connect with posts in different categories
