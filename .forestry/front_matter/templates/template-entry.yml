@@ -16,3 +16,5 @@ fields:
   default: []
   label: tags
   description: тэги чтобы связать друг с другом посты в разных категориях
+pages:
+- content/steve-reich.md
