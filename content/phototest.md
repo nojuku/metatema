@@ -1,7 +1,12 @@
 ---
-title: "Phototest"
-date: 2020-05-06T01:17:23-04:00
-draft: true
-categories: ["photo"]
----
+title: Phototest
+date: 2020-05-06T05:17:23.000+00:00
+categories:
+- photo
 
+---
+And here is some Robert Bresson
+
+![](/uploads/bresson_farar.jpg)
+
+Your metatema
