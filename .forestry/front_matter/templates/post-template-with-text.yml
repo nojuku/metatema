@@ -17,3 +17,5 @@ fields:
   default: []
   label: tags
   description: Tags to connect with posts in different categories
+pages:
+- content/steve-reich.md
