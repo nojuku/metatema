@@ -78,7 +78,11 @@ Julian Dorosh, Wedding Outfit of a Young, Rakovets-on-Dnistr village, the early 
 
 Julian Dorosh, The Wheat Sifter, the early 1930s
 
+Julian Dorosh, The Wheat Sifter, the early 1930s
+
 ![](/uploads/Юліан Дорош. Гагілка, сер. 1930-х рр. (Світло й Тінь. – 1936. – Ч. 5).jpg)
+
+Julian Dorosh, Spring (Maybe Easter) Singing, mid-1930s
 
 Julian Dorosh, Spring (Maybe Easter) Singing, mid-1930s
 
