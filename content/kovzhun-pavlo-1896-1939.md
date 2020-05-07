@@ -1,6 +1,6 @@
 +++
 categories = []
-date = 2020-05-07T04:00:00Z
+date = 2020-05-07T18:17:00Z
 draft = true
 tags = []
 title = "KOVZHUN Pavlo 1896-1939"
