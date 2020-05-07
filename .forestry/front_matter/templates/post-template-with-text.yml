@@ -18,6 +18,7 @@ fields:
   label: tags
   description: Tags to connect with posts in different categories
 pages:
+- content/bodnar-ihor-1941-2011.md
 - content/kruk-hryhoriy-yakovlevich-1911-1988.md
 - content/kuzhbushky-16th-18th-cc.md
 - content/steve-reich.md
