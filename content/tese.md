@@ -6,6 +6,8 @@ tags = []
 title = "TESE"
 
 +++
+TESE
+
 KRUK Hryhoriy Yakovlevich 1911 -1988
 
 ![](https://lh6.googleusercontent.com/ajG16nQonrZX2MfoPoTG9otwocEn4IXQPws_pRVpo99MBG4c0-hfIi7ULZLWdFz4uHFx_siJe1GDBhEq_31hPdontp8NDepyGmL9kXdCu7l6mHymDoZaI_XinH4IPMzy9pQtouzj =602x808)
