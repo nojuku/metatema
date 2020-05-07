@@ -18,4 +18,5 @@ fields:
   label: tags
   description: Tags to connect with posts in different categories
 pages:
+- content/kuzhbushky-16th-18th-cc.md
 - content/steve-reich.md
