@@ -12,7 +12,8 @@ Albums of educational drawings of the icon-painting and painting workshop of the
 
 Among the drawings many portraits of prominent ecclesiastical and political figures of the time can be found, studios for religious and mythological subjects, landscapes and ornamental projects, genre scenes, anatomy studies, many of which were dated and signed by teachers and students.
 
+![](/uploads/кужбушки (dragged) 13-1.jpg)
+
 Kuzbushky is an important historical source for the study of the development of easel and monumental painting in Ukraine, evidence of artistic and cultural links with Western European art, and a unique monument of artistic culture in both Ukraine and Eastern Slavic times of the eighteenth century in general.
 
-  
-![](/uploads/кужбушки (dragged)-1.jpg)![](/uploads/кужбушки (dragged) 3-1.jpg)![](/uploads/кужбушки (dragged) 14-1.jpg) ![](/uploads/кужбушки (dragged) 4-1.jpg)![](/uploads/кужбушки (dragged) 6-1.jpg)![](/uploads/кужбушки (dragged) 7-1.jpg)![](/uploads/кужбушки (dragged) 8-1.jpg)![](/uploads/кужбушки (dragged) 9-1.jpg)![](/uploads/кужбушки (dragged) 10-1.jpg)
+![](/uploads/кужбушки (dragged)-1.jpg)![](/uploads/кужбушки (dragged) 3-1.jpg)![](/uploads/кужбушки (dragged) 14-1.jpg) ![](/uploads/кужбушки (dragged) 4-1.jpg)![](/uploads/кужбушки (dragged) 6-1.jpg)![](/uploads/кужбушки (dragged) 7-1.jpg)![](/uploads/кужбушки (dragged) 8-1.jpg)![](/uploads/кужбушки (dragged) 9-1.jpg)![](/uploads/кужбушки (dragged) 10-1.jpg)![](/uploads/кужбушки (dragged) 12-1.jpg)![](/uploads/кужбушки (dragged) 15-1.jpg)
