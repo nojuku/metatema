@@ -2,7 +2,7 @@
 categories = ["tese"]
 date = 2020-05-13T04:00:00Z
 draft = true
-tags = []
+tags = ["one"]
 title = "TESE"
 
 +++
