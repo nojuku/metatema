@@ -1,6 +1,6 @@
 {{ partial "header.html" . }}
 <p>Hello, welcome to {{ .Title }}!</p>
-{{ range ($.Site.GetPage "taxonomyTerm" "categories").Pages }}
+{{ range .Site.AllPages }}
     <a href="{{ .Permalink }}">{{ .Title }}</a>
     <br>
 {{ end }}

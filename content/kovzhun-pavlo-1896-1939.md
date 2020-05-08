@@ -8,7 +8,7 @@ title = "KOVZHUN Pavlo 1896-1939"
 +++
 KOVZHUN Pavlo 1896-1939
 
-![](/uploads/Pavlo Kovzhun 4.jpg)
+![](/uploads/Pavloovzhun K 4.jpg)
 
 Pavlo Kovzhun was born on October 3, 1896 in the village of Kostiushk, Volyn.
 
