@@ -6,7 +6,7 @@ tags = []
 title = " BODNAR Ihor 1941 - 2011"
 
 +++
-![](/uploads/І. Боднар за мольбертом в аудиторії живопису, 1961р..jpg)
+![](/uploads/Ігор Боднар, «Реальні мрії», 1968 р..jpg)![](/uploads/І. Боднар за мольбертом в аудиторії живопису, 1961р..jpg)
 
 Bodnar next to the easel in the painting auditorium, 1961
 
@@ -85,6 +85,10 @@ Ihor Bodnar, The Light Figure, 1967
 Ihor Bodnar, Easter, 1960s
 
 ![](/uploads/ Ihor Bodnar : Ігор Боднар · February 10, 2018 · Edited ·    Екслібрис Р.Іваничука-1.jpg)![](/uploads/27867602_2087271201559920_4174286592914131416_n.jpg)![](/uploads/27657363_2087271048226602_3599545099068826975_n.jpg)![](/uploads/ Ihor Bodnar : Ігор Боднар · February 10, 2018 · Edited ·    Екслібрис Р.Іваничука-1.jpg)
+
+![](/uploads/Ігор Боднар, «Реальні мрії», 1968 р..jpg)
+
+Ihor Bodnar, Real Dreams, 1968
 
 References:
 
