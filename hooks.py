@@ -1,4 +1,4 @@
-#!/env/bin/ python3
+#!/env/bin/ python
 
 import os, sys
 import transliterate
