@@ -34,4 +34,4 @@ Kolos Serhiy, Chess, tempera on wood, 1923
 
 In a Cafe, watercolor, 1924![](/uploads/1928 Girl brushing her hair.jpg)
 
-Kolos Serhiy,  Girl Brushing her Braid* (*hair), watercolour, 1928
+Kolos Serhiy,  Girl Brushing her Braid* (*hair), watercolor, 1928
