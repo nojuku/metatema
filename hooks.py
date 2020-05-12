@@ -1,8 +1,10 @@
-#!/env/bin/ python
+activate_this_file = "/env/bin/activate_this.py"
 
-import os, sys
-import transliterate
-from transliterate import get_available_language_codes
+execfile(activate_this_file, dict(__file__=activate_this_file))
 
-print(get_available_language_codes())
-print("yo")
+import subprocess
+
+python_bin = "/env/bin/python3"
+script_file = ".git/hooks2.py"
+
+subprocess.Popen([python_bin, script_file])
