@@ -8,6 +8,6 @@ categories:
 ---
 This is the first image post
 
-![](https://news.artnet.com/app/news-upload/2019/12/5db820a075ba3.jpg)
+![](/uploads/ews-artnet-com-app-news-upload-2019-12-5db820a075ba3.jpg)
 
 Your metatema

@@ -8,7 +8,7 @@ title = "KOVZHUN Pavlo 1896-1939"
 +++
 KOVZHUN Pavlo 1896-1939
 
-![](/uploads/Pavloovzhun K 4.jpg)
+![](/uploads/pavloovzhun-k-4.jpg)
 
 Pavlo Kovzhun was born on October 3, 1896 in the village of Kostiushk, Volyn.
 
@@ -32,30 +32,30 @@ Cover of the first issue of the bell magazine "The Bell" for 1913 (Ukrainian pre
 
 Cover of the journal "New Ways" by P. Kovzhun, Lviv, 1929 (Pavlo Kovzhun. Creative legacy of the artist: materials, bibliography / order. I. Melnyk, R. Yatsiv. - Lviv, 2010)
 
-![](/uploads/Дизайн обкладинки. Літерація, ілюстрація. Павло Ковжун, 1936..jpg)
+![](/uploads/dizain-obkladinki-literatsiia-iliustratsiia-pavlo-kovzhun-1936.jpg)
 
 Cover design, illustration by Pavlo Kovzhun, 1936
 
-![](/uploads/Screen Shot 2020-05-07 at 9.34.56 AM.png)
+![](/uploads/screen-shot-2020-05-07-at-9-34-56-am.png)
 
 Pavlo Kovzhun. From M. Matchak's books, 1920
 
   
-![](/uploads/Обкладинка першого зошита журналу «Мистецтво» за 1932 р.jpg)
+![](/uploads/obkladinka-pershogo-zoshita-zhurnalu-mistetstvo-za-1932-r.jpg)
 
-Cover of the first issue of the magazine "Art", 1932![](/uploads/павло ковжун.jpg)
+Cover of the first issue of the magazine "Art", 1932![](/uploads/pavlo-kovzhun.jpg)
 
 Pavlo Kovzhun. Still life vignette, 1921
 
-![](/uploads/Screen Shot 2020-05-07 at 9.37.17 AM.png)
+![](/uploads/screen-shot-2020-05-07-at-9-37-17-am.png)
 
 Pavlo Kovzhun. Landscape with Birch, 1923
 
-![](/uploads/павло ковжун2.jpg)
+![](/uploads/pavlo-kovzhun2.jpg)
 
 Pavlo Kovzhun. Life, 1922; ink on paper
 
-![](/uploads/Screen Shot 2020-05-07 at 9.41.18 AM.png)
+![](/uploads/screen-shot-2020-05-07-at-9-41-18-am.png)
 
 Pavlo Kovzhun. Winter Landscape, 1920s;
 

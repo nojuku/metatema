@@ -7,4 +7,4 @@ title = "Steve Reich"
 +++
 This is him
 
-![](/uploads/102REICHTECHSUB1-superJumbo.jpg)
+![](/uploads/102reichtechsub1-superjumbo.jpg)

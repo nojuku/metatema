@@ -10,7 +10,7 @@ TESE
 
 KRUK Hryhoriy Yakovlevich 1911 -1988
 
-![](https://lh6.googleusercontent.com/ajG16nQonrZX2MfoPoTG9otwocEn4IXQPws_pRVpo99MBG4c0-hfIi7ULZLWdFz4uHFx_siJe1GDBhEq_31hPdontp8NDepyGmL9kXdCu7l6mHymDoZaI_XinH4IPMzy9pQtouzj =602x808)
+![](/uploads/h6-googleusercontent-com-ajg16nqonrzx2mfopotg9otwocen4ixqpws-prvpo99mbg4c0-hfii7ulzlwdfz4uhfx-sije1gdbheq-31hpdontp8ndepygml9kxdcu7l6mhymdozai-xinh4ipmzy9pqtouzj-602x808)
 
 Hryhoriy Kruk next to his work, Berlin, 1945
 
@@ -38,13 +38,13 @@ Kruk Introduced the story of Ukrainian peasants to the art world (1964 monument 
 
 Unfortunately, most of the found pictures of pieces are lacking names, dates of creation, and details on the medium used. Luckily, it is still possible to view the works themselves connecting them to the available facts on his practice and sources of inspiration that can be found in the bio.
 
-![](https://lh6.googleusercontent.com/KH3in3VJXZKpahE-gvDP3m2dKc99xNAwlDeq3T-94LM_zRamYj5XW-E-op5b9hPRayoS0WymEz4X9aFkUzOvRqHwQ38sUuhvIwzCyVNw53mQqTggdg3LOxr2HvfVzx_YMj2PYMkF =187x350)![](https://lh3.googleusercontent.com/f8ObyiFlPtEgZgrhCBx1_k0Huc8Xw9CUWnf5lqdd2B8R97IJKTDWx0aT3QPYmh1qMPYKWuVxH1kHaj81C_4FMkF5f48aSG9B6fK2J0GykFn4wqU8mbheuzuNeV8IQF71I-YeucY0 =602x285)![](https://lh6.googleusercontent.com/o4GXLcEh6R-5lfWafGxkxf0g-61PgdOcKmi0uoOxzqT9_7_mG5wJtmhbeLo_tBGSQhIVleBPaLmlyIZav63nUJR5X6GVBYeArRABXVs4RRsLYbh_hfx5cPq8Htts77L-VSkIblvU =294x300)![](https://lh4.googleusercontent.com/epHfJ2edylqsLKADcAcq0FyG0QgXxHof7bfHVPImOT8-5-OZztW2fY-KSAS2p9_2YI4S3CMChuBnCQhAbozk5VeGAC-Gqw9nN_1IqsNcf88YIp1sWpO98vfjUOdVG-RrnWZBh7ua =358x615)![](https://lh3.googleusercontent.com/hbTG2GnNQAhzIwYvPiPU5q0Z19pwlxq0GOQ0SgJ5-h65Um4tHcAqF4L58cjME1jwwFLMAACUafJMnXXjSXhgfk3Mz9KBO24on5iW3wOiGjf3LtLzGtfKCdbKrNWsiOn2M5RoQczV =235x481)![](https://lh3.googleusercontent.com/nEuQkpyDbTeAH2t6idzA8YUbDAXc61DHfp7--2GWEQUSnMSE_R7RuhhjwDVPbv_OUsjQBO7iU912hUs1EFVzvyS55S9DlMpx3D8L8T66KiowCWPIG_MLkBmouvVFe222ZqKpgU0V =280x298)![](https://lh6.googleusercontent.com/KvYeqrdBt21kTS_RB8CJdycybGPggmOYnZGH00BynmYsMgOg4LpubFHisQCRPZ3nA3WJt4O_Y1BdikBB7q67WKcNvUYOz-Hdlv-UWjKRIY5wXQBByxN1DtwECsqN5_0E_GqkZsnp =178x299)![](https://lh5.googleusercontent.com/kMXBnaFQRg6k3FxOrtiYzzQIU3xnGujNRwj1NqQ2ngHcN-8yVWvQaypsSNz6XM_FGhugj-zy0I2JU--H_5SFVpqETzoJ_57r6lhx3EjSJDs1WZqxLIohaTaIeHyaW2Y0f7rme978 =206x300)![](https://lh3.googleusercontent.com/8boAvifj2nspE4_sEv-J8HOYeddvmZufrfKrnQiCUL4zcO7uwQrvhCkUew3QmdALzZzIACdzYQLEArVZEb3MM01SCA-LGKtARjW8k79Yub07qpsyoZUBR9Qghlyl2AHJPxI8AU6j =602x285)
+![](/uploads/h6-googleusercontent-com-kh3in3vjxzkpahe-gvdp3m2dkc99xnawldeq3t-94lm-zramyj5xw-e-op5b9hprayos0wymez4x9afkuzovrqhwq38suuhviwzcyvnw53mqqtggdg3loxr2hvfvzx-ymj2pymkf-187x350)![](/uploads/h3-googleusercontent-com-f8obyiflptegzgrhcbx1-k0huc8xw9cuwnf5lqdd2b8r97ijktdwx0at3qpymh1qmpykwuvxh1khaj81c-4fmkf5f48asg9b6fk2j0gykfn4wqu8mbheuzunev8iqf71i-yeucy0-602x285)![](/uploads/h6-googleusercontent-com-o4gxlceh6r-5lfwafgxkxf0g-61pgdockmi0uooxzqt9-7-mg5wjtmhbelo-tbgsqhivlebpalmlyizav63nujr5x6gvbyearrabxvs4rrslybh-hfx5cpq8htts77l-vskiblvu-294x300)![](/uploads/h4-googleusercontent-com-ephfj2edylqslkadcacq0fyg0qgxxhof7bfhvpimot8-5-ozztw2fy-ksas2p9-2yi4s3cmchubncqhabozk5vegac-gqw9nn-1iqsncf88yip1swpo98vfjuodvg-rrnwzbh7ua-358x615)![](/uploads/h3-googleusercontent-com-hbtg2gnnqahziwyvpipu5q0z19pwlxq0goq0sgj5-h65um4thcaqf4l58cjme1jwwflmaacuafjmnxxjsxhgfk3mz9kbo24on5iw3woigjf3ltlzgtfkcdbkrnwsion2m5roqczv-235x481)![](/uploads/h3-googleusercontent-com-neuqkpydbteah2t6idza8yubdaxc61dhfp7-2gwequsnmse-r7ruhhjwdvpbv-ousjqbo7iu912hus1efvzvys55s9dlmpx3d8l8t66kiowcwpig-mlkbmouvvfe222zqkpgu0v-280x298)![](/uploads/h6-googleusercontent-com-kvyeqrdbt21kts-rb8cjdycybgpggmoynzgh00bynmysmgog4lpubfhisqcrpz3na3wjt4o-y1bdikbb7q67wkcnvuyoz-hdlv-uwjkriy5wxqbbyxn1dtwecsqn5-0e-gqkzsnp-178x299)![](/uploads/h5-googleusercontent-com-kmxbnafqrg6k3fxortiyzzqiu3xngujnrwj1nqq2nghcn-8yvwvqaypssnz6xm-fghugj-zy0i2ju-h-5sfvpqetzoj-57r6lhx3ejsjds1wzqxliohataiehyaw2y0f7rme978-206x300)![](/uploads/h3-googleusercontent-com-8boavifj2nspe4-sev-j8hoyeddvmzufrfkrnqicul4zco7uwqrvhckuew3qmdalzzziacdzyqlearvzeb3mm01sca-lgktarjw8k79yub07qpsyozubr9qghlyl2ahjpxi8au6j-602x285)
 
-![](https://lh5.googleusercontent.com/9evNcxnQdo1vyPOjUSNbFNSVy0n0ADpUKdtKNfzdrZFr_6iBoWzvneDgN6Y0ptJP8qYz6KQqhoacrptNeqDScZ36qyUOgjq4PVAzZQWXj_QyHT762Si1WtZu4iERvZKG1rpdsyrJ =417x764)
+![](/uploads/h5-googleusercontent-com-9evncxnqdo1vypojusnbfnsvy0n0adpukdtknfzdrzfr-6ibowzvnedgn6y0ptjp8qyz6kqqhoacrptneqdscz36qyuogjq4pvazzqwxj-qyht762si1wtzu4iervzkg1rpdsyrj-417x764)
 
 Refugee Family, 1938, concrete\`
 
-![](https://lh6.googleusercontent.com/9O3d-4jsYHAZxcFNQqLbrV3Hc7wV0JZ611wTJRK-eGMohX6yuZ1bY-r1ig5Z7EporIU6b2-hDFvkLpiLkCdkVZOPkyqG1EV2s8WIsqAYwz8srkH7uMTpp7wFwKDUnzLKkt0Kjzn1 =602x629)
+![](/uploads/h6-googleusercontent-com-9o3d-4jsyhazxcfnqqlbrv3hc7wv0jz611wtjrk-egmohx6yuz1by-r1ig5z7eporiu6b2-hdfvklpilkcdkvzopkyqg1ev2s8wisqaywz8srkh7umtpp7wfwkdunzlkkt0kjzn1-602x629)
 
 Nude, 1972, terracotta
 
