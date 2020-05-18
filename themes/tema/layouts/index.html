@@ -1,7 +1,8 @@
 {{ partial "header.html" . }}
 <p>Hello, welcome to {{ .Title }}!</p>
+<br>
 {{  range ($.Site.GetPage "taxonomyTerm" "categories").Pages }}
-    <li><a href="{{.Permalink}}">{{.Title}}</a></li>
+    <ul><a href="{{.Permalink}}">{{.Title}}</a></ul>
 
 {{end}}
-{{ partial "footer.html" . }}
+

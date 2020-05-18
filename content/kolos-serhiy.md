@@ -1,5 +1,5 @@
 +++
-categories = ["", ""]
+categories = ["Textile"]
 date = ""
 draft = true
 tags = []

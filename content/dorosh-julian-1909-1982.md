@@ -1,5 +1,5 @@
 +++
-categories = []
+categories = ["Photography"]
 date = 2020-05-07T17:29:00Z
 draft = true
 tags = []
