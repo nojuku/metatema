@@ -30,90 +30,90 @@ Julian was also a photographer at the Lviv History Museum, worked at the Departm
 
 In 1956, at the suggestion of I. Krypiakevich at the Department of Archeology of the Institute of Social Sciences of the Academy of Sciences of the USSR, J. Dorosh organized a photo lab in which illustrations for guides, albums, books ("Historical Passages in Lviv", etc.) were printed.
 
-![](/uploads/   Кадри з фільму «Раковець» (Назустріч. – 1936. – Ч. 4).jpg)
+![](/uploads/kadri-z-filmu-rakovets-nazustrich-1936-ch-4.jpg)
 
 Julian Dorosh, fragments from Rakovets movie
 
-![](/uploads/Noviy-YAr-Lvivskoyi-1961 Yulian Dorosh .jpg)
+![](/uploads/noviy-yar-lvivskoyi-1961-yulian-dorosh.jpg)
 
-Julian Dorosh, Noyi Yar Lvivskoyi, 1961![](/uploads/yulian d. Феєрверк_у_Львові_на_честь_5-річчя_Перемоги.jpg)
+Julian Dorosh, Noyi Yar Lvivskoyi, 1961![](/uploads/yulian-d-feierverk-u-lvovi-na-chest-5-richchia-peremogi.jpg)
 
 Julian Dorosh, Fireworks in Lviv, 5 years Victory Anniversary, 1950
 
-Julian Dorosh, Unknown year and place works:![](/uploads/Yulian Dorosh .jpg)![](/uploads/Yulian Dorosh 2.jpg)
+Julian Dorosh, Unknown year and place works:![](/uploads/yulian-dorosh.jpg)![](/uploads/yulian-dorosh-2.jpg)
 
-![](/uploads/Yulian Dorosh 3.jpg)
+![](/uploads/yulian-dorosh-3.jpg)
 
-![](/uploads/Yulian Dorosh 4.jpg)
+![](/uploads/yulian-dorosh-4.jpg)
 
-![](/uploads/Yulian Dorosh 5.jpg)
+![](/uploads/yulian-dorosh-5.jpg)
 
-![](/uploads/Yulian Dorosh 6.jpg)
+![](/uploads/yulian-dorosh-6.jpg)
 
-![](/uploads/Yulian Dorosh 7.jpg)![](/uploads/Yulian Dorosh 8.jpg)![](/uploads/Yulian Dorosh 9.jpg)
+![](/uploads/yulian-dorosh-7.jpg)![](/uploads/yulian-dorosh-8.jpg)![](/uploads/yulian-dorosh-9.jpg)
 
-![](/uploads/Yulian Dorosh 10.jpg)![](/uploads/Вулиця Замкова (вересень 1959 року) Творець- Юліан Дорош.jpg)Julian Dorosh, Zamkova street, September 1959
+![](/uploads/yulian-dorosh-10.jpg)![](/uploads/vulitsia-zamkova-veresen-1959-roku-tvorets-iulian-dorosh.jpg)Julian Dorosh, Zamkova street, September 1959
 
-![](/uploads/Юліан Дорош. Вид на розкопки й околицю Крилоса, 1936 р. (Наша Батьківщина. – 1937. – Ч. 1).jpg)Julian Dorosh, fragments from Gutsulshyna movie, 1936
+![](/uploads/iulian-dorosh-vid-na-rozkopki-i-okolitsiu-krilosa-1936-r-nasha-batkivshchina-1937-ch-1.jpg)Julian Dorosh, fragments from Gutsulshyna movie, 1936
 
-![](/uploads/Кадри із фільму «Гуцульщина» (Назустріч. – 1936. – Ч. 20)-   .jpg)Julian Dorosh, fragments from Gutsulshyna movie, 1936
+![](/uploads/kadri-iz-filmu-gutsulshchina-nazustrich-1936-ch-20.jpg)Julian Dorosh, fragments from Gutsulshyna movie, 1936
 
-![](/uploads/Кадри із фільму «Гуцульщина» (Назустріч. – 1936. – Ч. 20)-   2.jpg)Julian Dorosh, fragments from Gutsulshyna movie, 1936
+![](/uploads/kadri-iz-filmu-gutsulshchina-nazustrich-1936-ch-20-2.jpg)Julian Dorosh, fragments from Gutsulshyna movie, 1936
 
-![](/uploads/Кривчиці. Дорога Кривчицька, початок 1960-х років. Творець- Юліан Дорош.jpg)Julian Dorosh, Kryvchytsi, Kryvchytska road, the early 1960s![](/uploads/Останній кадр із фільму «До добра і краси» (Господарсько-Кооперативний Часопис. – 1938. – Ч. 17:18).jpg)
+![](/uploads/krivchitsi-doroga-krivchitska-pochatok-1960-kh-rokiv-tvorets-iulian-dorosh.jpg)Julian Dorosh, Kryvchytsi, Kryvchytska road, the early 1960s![](/uploads/ostannii-kadr-iz-filmu-do-dobra-i-krasi-gospodarsko-kooperativnii-chasopis-1938-ch-17-18.jpg)
 
 Julian Dorosh, Last shot from the “Towards Kindness and Beauty” movie, 1938
 
-![](/uploads/Погулянка, початок 1950-х років  Творець- Юліан Дорош  Видавець- «Галицька брама», Львів  Дата- 1952.jpg)Julian Dorosh, Hanging Out, the early 1950s, Lviv
+![](/uploads/pogulianka-pochatok-1950-kh-rokiv-tvorets-iulian-dorosh-vidavets-galitska-brama-lviv-data-1952.jpg)Julian Dorosh, Hanging Out, the early 1950s, Lviv
 
-![](/uploads/Творець- Юліан Дорош  Видавець- «Мікроскоп пана Юрка», Львів  Дата- 1946-1990.jpg)Julian Dorosh, published by “Microscope of Sir Yurko”, 1946?, Lviv
+![](/uploads/tvorets-iulian-dorosh-vidavets-mikroskop-pana-iurka-lviv-data-1946-1990.jpg)Julian Dorosh, published by “Microscope of Sir Yurko”, 1946?, Lviv
 
-![](/uploads/Юліан Дорош. Вежа, Раковець, сер. 1950-х рр. (Галицька брама. – 2009. – № 6).jpg)Julian Dorosh, Rakovets Tower, mid-1950s
+![](/uploads/iulian-dorosh-vezha-rakovets-ser-1950-kh-rr-galitska-brama-2009-6.jpg)Julian Dorosh, Rakovets Tower, mid-1950s
 
-![](/uploads/Юліан Дорош. Весільний убір молодої, с. Раковець-на-Дністрі, поч. 1930-х рр. (Світло й Тінь. – 1935. – Ч. 10).jpg)
+![](/uploads/iulian-dorosh-vesilnii-ubir-molodoi-s-rakovets-na-dnistri-poch-1930-kh-rr-svitlo-i-tin-1935-ch-10.jpg)
 
 Julian Dorosh, Wedding Outfit of a Young, Rakovets-on-Dnistr village, the early 1930s
 
-![](/uploads/Юліан Дорош. Віяльниця, поч. 1930-х рр. (зі сайту http-::esu.com.ua).jpg)
+![](/uploads/iulian-dorosh-viialnitsia-poch-1930-kh-rr-zi-saitu-http-esu-com-ua.jpg)
 
 Julian Dorosh, The Wheat Sifter, the early 1930s
 
 Julian Dorosh, The Wheat Sifter, the early 1930s
 
-![](/uploads/Юліан Дорош. Гагілка, сер. 1930-х рр. (Світло й Тінь. – 1936. – Ч. 5).jpg)
+![](/uploads/iulian-dorosh-gagilka-ser-1930-kh-rr-svitlo-i-tin-1936-ch-5.jpg)
 
 Julian Dorosh, Spring (Maybe Easter) Singing, mid-1930s
 
 Julian Dorosh, Spring (Maybe Easter) Singing, mid-1930s
 
-![](/uploads/Юліан Дорош. Гуцул, кін. 1930-х рр. (Світло й Тінь. – 1939. – Ч. 7).jpg)
+![](/uploads/iulian-dorosh-gutsul-kin-1930-kh-rr-svitlo-i-tin-1939-ch-7.jpg)
 
 Julian Dorosh, Gutsul, the late 1930s
 
-![](/uploads/Юліан Дорош. Криги й світло, поч. 1930-х рр. (Світло й Тінь. – 1934. – Ч. 4).jpg)
+![](/uploads/iulian-dorosh-krigi-i-svitlo-poch-1930-kh-rr-svitlo-i-tin-1934-ch-4.jpg)
 
 Julian Dorosh, Ice and Light, the early 1930s
 
-![](/uploads/Юліан Дорош. Натюрморт, поч. 1930-х рр. (Галицька брама. – 2009. – № 6).jpg)Julian Dorosh, Still Life, the early 1930s
+![](/uploads/iulian-dorosh-natiurmort-poch-1930-kh-rr-galitska-brama-2009-6.jpg)Julian Dorosh, Still Life, the early 1930s
 
-![](/uploads/Юліан Дорош. У дорогу, поч. 1930-х рр. (Світло й Тінь. – 1935. – Ч. 6).jpg)Julian Dorosh, On the Road, the early 1930s![](/uploads/Юліан Дорош. Хмари, поч. 1930-х рр. (Світло й Тінь. – 1935. – Ч. 6).jpg)
+![](/uploads/iulian-dorosh-u-dorogu-poch-1930-kh-rr-svitlo-i-tin-1935-ch-6.jpg)Julian Dorosh, On the Road, the early 1930s![](/uploads/iulian-dorosh-khmari-poch-1930-kh-rr-svitlo-i-tin-1935-ch-6.jpg)
 
 Julian Dorosh, Clouds, the early 1930s
 
-![](/uploads/Юліан Дорош. Шваля, сер. 1930-х рр. (Світло й Тінь. – 1936. – Ч. 12).jpg)
+![](/uploads/iulian-dorosh-shvalia-ser-1930-kh-rr-svitlo-i-tin-1936-ch-12.jpg)
 
 Julian Dorosh, Seamstress, mid-1930s
 
-![](/uploads/45 (dragged) 2-1.jpg)Julian Dorosh, Sewer Pidlysnyuk Paraska Ivanivna, September 1954, Semenivka village
+![](/uploads/45-dragged-2-1.jpg)Julian Dorosh, Sewer Pidlysnyuk Paraska Ivanivna, September 1954, Semenivka village
 
 Julian Dorosh, Over Furrier’s, Boytsan Ivan Fedorovych, September 1954, Semenivka village
 
-![](/uploads/45 (dragged) 3-1.jpg)
+![](/uploads/45-dragged-3-1.jpg)
 
 Julian Dorosh, Wedding Preparation of the Bride, August 11, 1960, Verbovets village
 
 Julian Dorosh, Easter painter, Olena Kushnirchuk, August, 1969, Kosmach village
 
-![](/uploads/45 (dragged) 4-1.jpg)Julian Dorosh, Blossoming Girl, September 15, 1946, Yasen-Pilnyi village
+![](/uploads/45-dragged-4-1.jpg)Julian Dorosh, Blossoming Girl, September 15, 1946, Yasen-Pilnyi village
 
 Julian Dorosh, Girl with Coins, July 12, 1971, Krasnoyilia

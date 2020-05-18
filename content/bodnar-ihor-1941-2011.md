@@ -6,7 +6,7 @@ tags = []
 title = " BODNAR Ihor 1941 - 2011"
 
 +++
-![](/uploads/Ігор Боднар, «Реальні мрії», 1968 р..jpg)![](/uploads/І. Боднар за мольбертом в аудиторії живопису, 1961р..jpg)
+![](/uploads/igor-bodnar-realni-mrii-1968-r.jpg)![](/uploads/i-bodnar-za-molbertom-v-auditorii-zhivopisu-1961r.jpg)
 
 Bodnar next to the easel in the painting auditorium, 1961
 
@@ -60,33 +60,33 @@ _In the eyes of a horse._
 
 _(Ihor Bodnar, early 2000s)_
 
-![](/uploads/Ігор Боднар, «Погляд крізь пристрастні очі».jpg)
+![](/uploads/igor-bodnar-pogliad-kriz-pristrastni-ochi.jpg)
 
 Ihor Bodnar, "Look Through Passionate Eyes"
 
-![](/uploads/knuga-21-2010_page_004-1.jpg)
+![](/uploads/knuga-21-2010-page-004-1.jpg)
 
 Ihor Bodnar, Portrait of Unknown, 1960s
 
-![](/uploads/Ігор Боднар, «Сумний вечір», 1967 р..jpg)
+![](/uploads/igor-bodnar-sumnii-vechir-1967-r.jpg)
 
 Ihor Bodnar, The Sad Evening, 1967
 
-![](/uploads/10._perspektyva_lyudskogo_zhyttya.jpg)
+![](/uploads/10-perspektyva-lyudskogo-zhyttya.jpg)
 
 Ihor Bodnar, Human Life’s Perspective
 
-![](/uploads/9._svitla_postat_1967.jpg)
+![](/uploads/9-svitla-postat-1967.jpg)
 
 Ihor Bodnar, The Light Figure, 1967
 
-![](/uploads/Ігор Боднар, «Великоднє», 1960-ті рр..jpg)
+![](/uploads/igor-bodnar-velikodnie-1960-ti-rr.jpg)
 
 Ihor Bodnar, Easter, 1960s
 
-![](/uploads/ Ihor Bodnar : Ігор Боднар · February 10, 2018 · Edited ·    Екслібрис Р.Іваничука-1.jpg)![](/uploads/27867602_2087271201559920_4174286592914131416_n.jpg)![](/uploads/27657363_2087271048226602_3599545099068826975_n.jpg)![](/uploads/ Ihor Bodnar : Ігор Боднар · February 10, 2018 · Edited ·    Екслібрис Р.Іваничука-1.jpg)
+![](/uploads/ihor-bodnar-igor-bodnar-february-10-2018-edited-ekslibris-r-ivanichuka-1.jpg)![](/uploads/27867602-2087271201559920-4174286592914131416-n.jpg)![](/uploads/27657363-2087271048226602-3599545099068826975-n.jpg)![](/uploads/ihor-bodnar-igor-bodnar-february-10-2018-edited-ekslibris-r-ivanichuka-1.jpg)
 
-![](/uploads/Ігор Боднар, «Реальні мрії», 1968 р..jpg)
+![](/uploads/igor-bodnar-realni-mrii-1968-r.jpg)
 
 Ihor Bodnar, Real Dreams, 1968
 
