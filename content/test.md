@@ -6,4 +6,4 @@ tags = []
 title = "test"
 
 +++
-> ![](/dragged-7-1.jpg)
+> ![](/demo-dragged-8-1.jpg)![](/dragged-7-1.jpg)
