@@ -5,7 +5,7 @@ from slugify import slugify
 import fileinput
 import shutil
 import regex as re
-
+from fuzzywuzzy import fuzz
 
 def fixNames():
 
@@ -30,14 +30,33 @@ def fixNames():
                     name = item[1]
                     name = name[10:-1]
                     name, ext2 = os.path.splitext(name)
-                    nameslug = "(" + "/uploads/" + slugify(name) + ext2 + ")"
+                    nameslug = slugify(name)
+                    nametofuzz = nameslug + ext2
+                    for filename in os.listdir("static/uploads"):
+                        if fuzz.ratio(filename, nametofuzz) > 90:
+                            print("MATCH")
+                            nameslugcomp = "(" + "/uploads/" + filename + ")"
+
+                        else: nameslugcomp = "(" + "/uploads/" + nametofuzz + ")"
+
                     nametoreplace = item[1]
-                    line = line.replace(nametoreplace, nameslug)
+
+                    line = line.replace(nametoreplace, nameslugcomp)
 
                 print(line, end='')
 
             else:
                 print(line, end='')
+
+def fuzzymatch(name):
+
+    for filename in os.listdir("static/uploads"):
+
+        if fuzz.ratio(filename, name) > 60:
+            os.rename(os.path.join("static/uploads", filename), os.path.join("static/uploads", name))
+
+        else:
+            os.rename(os.path.join("static/uploads", filename), os.path.join("static/uploads", "HEH.jpg"))
 
 if __name__ == "__main__":
     fixNames()
