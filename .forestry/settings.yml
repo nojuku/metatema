@@ -9,15 +9,15 @@ sections:
   label: Posts
   create: all
   match: "**/*"
-upload_dir: ''
+upload_dir: static/uploads
 public_path: ''
 front_matter_path: ''
-use_front_matter_path: false
+use_front_matter_path: 
 file_template: ":filename:"
 build:
   preview_env:
   - HUGO_ENV=staging
-  - HUGO_VERSION=0.69.0
+  - HUGO_VERSION=0.7
   preview_output_directory: public
   preview_docker_image: forestryio/hugo:latest
   mount_path: "/srv"
