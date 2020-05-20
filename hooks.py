@@ -58,5 +58,12 @@ def fuzzymatch(name):
         else:
             os.rename(os.path.join("static/uploads", filename), os.path.join("static/uploads", "HEH.jpg"))
 
+def testworking():
+    file = open("GURU.TXT", "w+")
+    for line in file:
+        file.write("maan")
+        file.close()
+
 if __name__ == "__main__":
-    fixNames()
+    #fixNames()
+    testworking()
