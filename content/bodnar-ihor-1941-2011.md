@@ -6,8 +6,8 @@ tags = []
 title = " BODNAR Ihor 1941 - 2011"
 
 +++
-![](https://res.cloudinary.com/dfmbidsgr/image/upload/igor-bodnar-realni-mriyi-1968-r.jpg)
-![](https://res.cloudinary.com/dfmbidsgr/image/upload/i-bodnar-za-molbertom-v-auditoriyi-zhivopisu-1961r.jpg)
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/v1590720725/images/igor-bodnar-realni-mriyi-1968-r.jpg)
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/v1590720725/images/i-bodnar-za-molbertom-v-auditoriyi-zhivopisu-1961r.jpg)
 
 Bodnar next to the easel in the painting auditorium, 1961
 
@@ -61,33 +61,33 @@ _In the eyes of a horse._
 
 _(Ihor Bodnar, early 2000s)_
 
-![](https://res.cloudinary.com/dfmbidsgr/image/upload/igor-bodnar-pogliad-kriz-pristrastni-ochi.jpg)
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/v1590720725/images/igor-bodnar-pogliad-kriz-pristrastni-ochi.jpg)
 
 Ihor Bodnar, "Look Through Passionate Eyes"
 
-![](https://res.cloudinary.com/dfmbidsgr/image/upload/knuga-21-2010-page-004-1.jpg)
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/v1590720725/images/knuga-21-2010-page-004-1.jpg)
 
 Ihor Bodnar, Portrait of Unknown, 1960s
 
-![](https://res.cloudinary.com/dfmbidsgr/image/upload/igor-bodnar-sumnii-vechir-1967-r.jpg)
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/v1590720725/images/igor-bodnar-sumnii-vechir-1967-r.jpg)
 
 Ihor Bodnar, The Sad Evening, 1967
 
-![](https://res.cloudinary.com/dfmbidsgr/image/upload/10-perspektyva-lyudskogo-zhyttya.jpg)
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/v1590720725/images/10-perspektyva-lyudskogo-zhyttya.jpg)
 
 Ihor Bodnar, Human Life’s Perspective
 
-![](https://res.cloudinary.com/dfmbidsgr/image/upload/9-svitla-postat-1967.jpg)
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/v1590720725/images/9-svitla-postat-1967.jpg)
 
 Ihor Bodnar, The Light Figure, 1967
 
-![](https://res.cloudinary.com/dfmbidsgr/image/upload/igor-bodnar-velikodnie-1960-ti-rr.jpg)
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/v1590720725/images/igor-bodnar-velikodnie-1960-ti-rr.jpg)
 
 Ihor Bodnar, Easter, 1960s
 
-![](https://res.cloudinary.com/dfmbidsgr/image/upload/ihor-bodnar-igor-bodnar-february-10-2018-edited-ekslibris-r-ivanichuka-1.jpg)![](https://res.cloudinary.com/dfmbidsgr/image/upload/27867602-2087271201559920-4174286592914131416-n.jpg)![](https://res.cloudinary.com/dfmbidsgr/image/upload/27657363-2087271048226602-3599545099068826975-n.jpg)![](https://res.cloudinary.com/dfmbidsgr/image/upload/ihor-bodnar-igor-bodnar-february-10-2018-edited-ekslibris-r-ivanichuka-1.jpg)
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/v1590720725/images/ihor-bodnar-igor-bodnar-february-10-2018-edited-ekslibris-r-ivanichuka-1.jpg)![](https://res.cloudinary.com/dfmbidsgr/image/upload/v1590720725/images/27867602-2087271201559920-4174286592914131416-n.jpg)![](https://res.cloudinary.com/dfmbidsgr/image/upload/v1590720725/images/27657363-2087271048226602-3599545099068826975-n.jpg)![](https://res.cloudinary.com/dfmbidsgr/image/upload/v1590720725/images/ihor-bodnar-igor-bodnar-february-10-2018-edited-ekslibris-r-ivanichuka-1.jpg)
 
-![](https://res.cloudinary.com/dfmbidsgr/image/upload/igor-bodnar-realni-mrii-1968-r.jpg)
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/v1590720725/images/igor-bodnar-realni-mrii-1968-r.jpg)
 
 Ihor Bodnar, Real Dreams, 1968
 

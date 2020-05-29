@@ -22,16 +22,16 @@ Master of arts and crafts and art critic. In 1988, the State Museum of Ukrainian
 
 ***
 
-**![](https://res.cloudinary.com/dfmbidsgr/image/upload/kolos-rug-bird-and-dog-1923-wool-handmade.jpg)**
+**![](https://res.cloudinary.com/dfmbidsgr/image/upload/v1590720725/images/kolos-rug-bird-and-dog-1923-wool-handmade.jpg)**
 
 Kolos Serhiy,  rug,  Bird and Dog, wool,  handmade, 1923 
 
-![](https://res.cloudinary.com/dfmbidsgr/image/upload/hra-v-shashky.jpg)
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/v1590720725/images/hra-v-shashky.jpg)
 
 Kolos Serhiy, Chess, tempera on wood, 1923
 
-![](https://res.cloudinary.com/dfmbidsgr/image/upload/in-cafe-1924-watercolour.jpg)
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/v1590720725/images/in-cafe-1924-watercolour.jpg)
 
-In a Cafe, watercolor, 1924![](https://res.cloudinary.com/dfmbidsgr/image/upload/1928-girl-brushing-her-hair.jpg)
+In a Cafe, watercolor, 1924![](https://res.cloudinary.com/dfmbidsgr/image/upload/v1590720725/images/1928-girl-brushing-her-hair.jpg)
 
 Kolos Serhiy,  Girl Brushing her Braid* (*hair), watercolor, 1928

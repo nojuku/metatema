@@ -34,8 +34,8 @@ def fixNames():
                 i = 0
                 for item in resu:
                     name = item[1]
-                    name = name[10:-1]
-                    name = "(https://res.cloudinary.com/dfmbidsgr/image/upload/" + name + ")"
+                    name = name[51:-1]
+                    name = "(https://res.cloudinary.com/dfmbidsgr/image/upload/v1590720725/images/" + name + ")"
                     #name, ext2 = os.path.splitext(name)
 
 #                     nameslug = slugify(name)

@@ -8,7 +8,7 @@ title = "DOROSH Julian 1909-1982"
 +++
 DOROSH Julian 1909-1982
 
-![](https://res.cloudinary.com/dfmbidsgr/image/upload/dorosh-2.jpg)
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/v1590720725/images/dorosh-2.jpg)
 
 Julian Dorosh was born on 9 June 1909 in the family of an Austrian officer in Zhidachiv. Shortly, his father was transferred to Ternopil region, where Julian had spent his childhood (town of Kopychyntsi). In the early 1920s, Dorosh’s family settled in Stanislav, where Julian graduated from Ukrainian high school. There he joined Plast organization, where he picked up a camera for the first time.
 
@@ -30,90 +30,90 @@ Julian was also a photographer at the Lviv History Museum, worked at the Departm
 
 In 1956, at the suggestion of I. Krypiakevich at the Department of Archeology of the Institute of Social Sciences of the Academy of Sciences of the USSR, J. Dorosh organized a photo lab in which illustrations for guides, albums, books ("Historical Passages in Lviv", etc.) were printed.
 
-![](https://res.cloudinary.com/dfmbidsgr/image/upload/kadri-z-filmu-rakovets-nazustrich-1936-ch-4.jpg)
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/v1590720725/images/kadri-z-filmu-rakovets-nazustrich-1936-ch-4.jpg)
 
 Julian Dorosh, fragments from Rakovets movie
 
-![](https://res.cloudinary.com/dfmbidsgr/image/upload/noviy-yar-lvivskoyi-1961-yulian-dorosh.jpg)
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/v1590720725/images/noviy-yar-lvivskoyi-1961-yulian-dorosh.jpg)
 
-Julian Dorosh, Noyi Yar Lvivskoyi, 1961![](https://res.cloudinary.com/dfmbidsgr/image/upload/yulian-d-feierverk-u-lvovi-na-chest-5-richchia-peremogi.jpg)
+Julian Dorosh, Noyi Yar Lvivskoyi, 1961![](https://res.cloudinary.com/dfmbidsgr/image/upload/v1590720725/images/yulian-d-feierverk-u-lvovi-na-chest-5-richchia-peremogi.jpg)
 
 Julian Dorosh, Fireworks in Lviv, 5 years Victory Anniversary, 1950
 
-Julian Dorosh, Unknown year and place works:![](https://res.cloudinary.com/dfmbidsgr/image/upload/yulian-dorosh.jpg)![](https://res.cloudinary.com/dfmbidsgr/image/upload/yulian-dorosh-2.jpg)
+Julian Dorosh, Unknown year and place works:![](https://res.cloudinary.com/dfmbidsgr/image/upload/v1590720725/images/yulian-dorosh.jpg)![](https://res.cloudinary.com/dfmbidsgr/image/upload/v1590720725/images/yulian-dorosh-2.jpg)
 
-![](https://res.cloudinary.com/dfmbidsgr/image/upload/yulian-dorosh-3.jpg)
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/v1590720725/images/yulian-dorosh-3.jpg)
 
-![](https://res.cloudinary.com/dfmbidsgr/image/upload/yulian-dorosh-4.jpg)
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/v1590720725/images/yulian-dorosh-4.jpg)
 
-![](https://res.cloudinary.com/dfmbidsgr/image/upload/yulian-dorosh-5.jpg)
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/v1590720725/images/yulian-dorosh-5.jpg)
 
-![](https://res.cloudinary.com/dfmbidsgr/image/upload/yulian-dorosh-6.jpg)
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/v1590720725/images/yulian-dorosh-6.jpg)
 
-![](https://res.cloudinary.com/dfmbidsgr/image/upload/yulian-dorosh-7.jpg)![](https://res.cloudinary.com/dfmbidsgr/image/upload/yulian-dorosh-8.jpg)![](https://res.cloudinary.com/dfmbidsgr/image/upload/yulian-dorosh-9.jpg)
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/v1590720725/images/yulian-dorosh-7.jpg)![](https://res.cloudinary.com/dfmbidsgr/image/upload/v1590720725/images/yulian-dorosh-8.jpg)![](https://res.cloudinary.com/dfmbidsgr/image/upload/v1590720725/images/yulian-dorosh-9.jpg)
 
-![](https://res.cloudinary.com/dfmbidsgr/image/upload/yulian-dorosh-10.jpg)![](https://res.cloudinary.com/dfmbidsgr/image/upload/vulitsia-zamkova-veresen-1959-roku-tvorets-iulian-dorosh.jpg)Julian Dorosh, Zamkova street, September 1959
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/v1590720725/images/yulian-dorosh-10.jpg)![](https://res.cloudinary.com/dfmbidsgr/image/upload/v1590720725/images/vulitsia-zamkova-veresen-1959-roku-tvorets-iulian-dorosh.jpg)Julian Dorosh, Zamkova street, September 1959
 
-![](https://res.cloudinary.com/dfmbidsgr/image/upload/iulian-dorosh-vid-na-rozkopki-i-okolitsiu-krilosa-1936-r-nasha-batkivshchina-1937-ch-1.jpg)Julian Dorosh, fragments from Gutsulshyna movie, 1936
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/v1590720725/images/iulian-dorosh-vid-na-rozkopki-i-okolitsiu-krilosa-1936-r-nasha-batkivshchina-1937-ch-1.jpg)Julian Dorosh, fragments from Gutsulshyna movie, 1936
 
-![](https://res.cloudinary.com/dfmbidsgr/image/upload/kadri-iz-filmu-gutsulshchina-nazustrich-1936-ch-20.jpg)Julian Dorosh, fragments from Gutsulshyna movie, 1936
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/v1590720725/images/kadri-iz-filmu-gutsulshchina-nazustrich-1936-ch-20.jpg)Julian Dorosh, fragments from Gutsulshyna movie, 1936
 
-![](https://res.cloudinary.com/dfmbidsgr/image/upload/kadri-iz-filmu-gutsulshchina-nazustrich-1936-ch-20-2.jpg)Julian Dorosh, fragments from Gutsulshyna movie, 1936
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/v1590720725/images/kadri-iz-filmu-gutsulshchina-nazustrich-1936-ch-20-2.jpg)Julian Dorosh, fragments from Gutsulshyna movie, 1936
 
-![](https://res.cloudinary.com/dfmbidsgr/image/upload/krivchitsi-doroga-krivchitska-pochatok-1960-kh-rokiv-tvorets-iulian-dorosh.jpg)Julian Dorosh, Kryvchytsi, Kryvchytska road, the early 1960s![](https://res.cloudinary.com/dfmbidsgr/image/upload/ostannii-kadr-iz-filmu-do-dobra-i-krasi-gospodarsko-kooperativnii-chasopis-1938-ch-17-18.jpg)
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/v1590720725/images/krivchitsi-doroga-krivchitska-pochatok-1960-kh-rokiv-tvorets-iulian-dorosh.jpg)Julian Dorosh, Kryvchytsi, Kryvchytska road, the early 1960s![](https://res.cloudinary.com/dfmbidsgr/image/upload/v1590720725/images/ostannii-kadr-iz-filmu-do-dobra-i-krasi-gospodarsko-kooperativnii-chasopis-1938-ch-17-18.jpg)
 
 Julian Dorosh, Last shot from the “Towards Kindness and Beauty” movie, 1938
 
-![](https://res.cloudinary.com/dfmbidsgr/image/upload/pogulianka-pochatok-1950-kh-rokiv-tvorets-iulian-dorosh-vidavets-galitska-brama-lviv-data-1952.jpg)Julian Dorosh, Hanging Out, the early 1950s, Lviv
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/v1590720725/images/pogulianka-pochatok-1950-kh-rokiv-tvorets-iulian-dorosh-vidavets-galitska-brama-lviv-data-1952.jpg)Julian Dorosh, Hanging Out, the early 1950s, Lviv
 
-![](https://res.cloudinary.com/dfmbidsgr/image/upload/tvorets-iulian-dorosh-vidavets-mikroskop-pana-iurka-lviv-data-1946-1990.jpg)Julian Dorosh, published by “Microscope of Sir Yurko”, 1946?, Lviv
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/v1590720725/images/tvorets-iulian-dorosh-vidavets-mikroskop-pana-iurka-lviv-data-1946-1990.jpg)Julian Dorosh, published by “Microscope of Sir Yurko”, 1946?, Lviv
 
-![](https://res.cloudinary.com/dfmbidsgr/image/upload/iulian-dorosh-vezha-rakovets-ser-1950-kh-rr-galitska-brama-2009-6.jpg)Julian Dorosh, Rakovets Tower, mid-1950s
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/v1590720725/images/iulian-dorosh-vezha-rakovets-ser-1950-kh-rr-galitska-brama-2009-6.jpg)Julian Dorosh, Rakovets Tower, mid-1950s
 
-![](https://res.cloudinary.com/dfmbidsgr/image/upload/iulian-dorosh-vesilnii-ubir-molodoyi-s-rakovets-na-dnistri-poch-1930-kh-rr-svitlo-i-tin-1935-ch-10.jpg)
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/v1590720725/images/iulian-dorosh-vesilnii-ubir-molodoyi-s-rakovets-na-dnistri-poch-1930-kh-rr-svitlo-i-tin-1935-ch-10.jpg)
 
 Julian Dorosh, Wedding Outfit of a Young, Rakovets-on-Dnistr village, the early 1930s
 
-![](https://res.cloudinary.com/dfmbidsgr/image/upload/iulian-dorosh-viialnitsia-poch-1930-kh-rr-zi-saitu-http-esu-com-ua.jpg)
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/v1590720725/images/iulian-dorosh-viialnitsia-poch-1930-kh-rr-zi-saitu-http-esu-com-ua.jpg)
 
 Julian Dorosh, The Wheat Sifter, the early 1930s
 
 Julian Dorosh, The Wheat Sifter, the early 1930s
 
-![](https://res.cloudinary.com/dfmbidsgr/image/upload/iulian-dorosh-gagilka-ser-1930-kh-rr-svitlo-i-tin-1936-ch-5.jpg)
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/v1590720725/images/iulian-dorosh-gagilka-ser-1930-kh-rr-svitlo-i-tin-1936-ch-5.jpg)
 
 Julian Dorosh, Spring (Maybe Easter) Singing, mid-1930s
 
 Julian Dorosh, Spring (Maybe Easter) Singing, mid-1930s
 
-![](https://res.cloudinary.com/dfmbidsgr/image/upload/iulian-dorosh-gutsul-kin-1930-kh-rr-svitlo-i-tin-1939-ch-7.jpg)
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/v1590720725/images/iulian-dorosh-gutsul-kin-1930-kh-rr-svitlo-i-tin-1939-ch-7.jpg)
 
 Julian Dorosh, Gutsul, the late 1930s
 
-![](https://res.cloudinary.com/dfmbidsgr/image/upload/iulian-dorosh-krigi-i-svitlo-poch-1930-kh-rr-svitlo-i-tin-1934-ch-4.jpg)
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/v1590720725/images/iulian-dorosh-krigi-i-svitlo-poch-1930-kh-rr-svitlo-i-tin-1934-ch-4.jpg)
 
 Julian Dorosh, Ice and Light, the early 1930s
 
-![](https://res.cloudinary.com/dfmbidsgr/image/upload/iulian-dorosh-natiurmort-poch-1930-kh-rr-galitska-brama-2009-6.jpg)Julian Dorosh, Still Life, the early 1930s
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/v1590720725/images/iulian-dorosh-natiurmort-poch-1930-kh-rr-galitska-brama-2009-6.jpg)Julian Dorosh, Still Life, the early 1930s
 
-![](https://res.cloudinary.com/dfmbidsgr/image/upload/iulian-dorosh-u-dorogu-poch-1930-kh-rr-svitlo-i-tin-1935-ch-6.jpg)Julian Dorosh, On the Road, the early 1930s![](https://res.cloudinary.com/dfmbidsgr/image/upload/iulian-dorosh-khmari-poch-1930-kh-rr-svitlo-i-tin-1935-ch-6.jpg)
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/v1590720725/images/iulian-dorosh-u-dorogu-poch-1930-kh-rr-svitlo-i-tin-1935-ch-6.jpg)Julian Dorosh, On the Road, the early 1930s![](https://res.cloudinary.com/dfmbidsgr/image/upload/v1590720725/images/iulian-dorosh-khmari-poch-1930-kh-rr-svitlo-i-tin-1935-ch-6.jpg)
 
 Julian Dorosh, Clouds, the early 1930s
 
-![](https://res.cloudinary.com/dfmbidsgr/image/upload/iulian-dorosh-shvalia-ser-1930-kh-rr-svitlo-i-tin-1936-ch-12.jpg)
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/v1590720725/images/iulian-dorosh-shvalia-ser-1930-kh-rr-svitlo-i-tin-1936-ch-12.jpg)
 
 Julian Dorosh, Seamstress, mid-1930s
 
-![](https://res.cloudinary.com/dfmbidsgr/image/upload/45-dragged-2-1.jpg)Julian Dorosh, Sewer Pidlysnyuk Paraska Ivanivna, September 1954, Semenivka village
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/v1590720725/images/45-dragged-2-1.jpg)Julian Dorosh, Sewer Pidlysnyuk Paraska Ivanivna, September 1954, Semenivka village
 
 Julian Dorosh, Over Furrier’s, Boytsan Ivan Fedorovych, September 1954, Semenivka village
 
-![](https://res.cloudinary.com/dfmbidsgr/image/upload/45-dragged-3-1.jpg)
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/v1590720725/images/45-dragged-3-1.jpg)
 
 Julian Dorosh, Wedding Preparation of the Bride, August 11, 1960, Verbovets village
 
 Julian Dorosh, Easter painter, Olena Kushnirchuk, August, 1969, Kosmach village
 
-![](https://res.cloudinary.com/dfmbidsgr/image/upload/45-dragged-4-1.jpg)Julian Dorosh, Blossoming Girl, September 15, 1946, Yasen-Pilnyi village
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/v1590720725/images/45-dragged-4-1.jpg)Julian Dorosh, Blossoming Girl, September 15, 1946, Yasen-Pilnyi village
 
 Julian Dorosh, Girl with Coins, July 12, 1971, Krasnoyilia
