@@ -6,8 +6,8 @@ tags = []
 title = " BODNAR Ihor 1941 - 2011"
 
 +++
-![](/uploads/igor-bodnar-realni-mrii-1968-r.jpg)
-![](/uploads/i-bodnar-za-molbertom-v-auditorii-zhivopisu-1961r.jpg)
+![](/uploads/igor-bodnar-realni-mriyi-1968-r.jpg)
+![](/uploads/i-bodnar-za-molbertom-v-auditoriyi-zhivopisu-1961r.jpg)
 
 Bodnar next to the easel in the painting auditorium, 1961
 

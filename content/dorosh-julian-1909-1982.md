@@ -70,7 +70,7 @@ Julian Dorosh, Last shot from the “Towards Kindness and Beauty” movie, 1938
 
 ![](/uploads/iulian-dorosh-vezha-rakovets-ser-1950-kh-rr-galitska-brama-2009-6.jpg)Julian Dorosh, Rakovets Tower, mid-1950s
 
-![](/uploads/iulian-dorosh-vesilnii-ubir-molodoi-s-rakovets-na-dnistri-poch-1930-kh-rr-svitlo-i-tin-1935-ch-10.jpg)
+![](/uploads/iulian-dorosh-vesilnii-ubir-molodoyi-s-rakovets-na-dnistri-poch-1930-kh-rr-svitlo-i-tin-1935-ch-10.jpg)
 
 Julian Dorosh, Wedding Outfit of a Young, Rakovets-on-Dnistr village, the early 1930s
 

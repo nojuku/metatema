@@ -5,14 +5,19 @@ from slugify import slugify
 import fileinput
 import shutil
 import regex as re
-from fuzzywuzzy import fuzz
+#from fuzzywuzzy import fuzz
 
 def fixNames():
 
-    for filename in os.listdir("static/uploads"):
-        title, ext = os.path.splitext(filename)
-        slug = slugify(title)
-        os.rename(os.path.join("static/uploads", filename), os.path.join("static/uploads", slug + ext))
+#     for filename in os.listdir("static/uploads"):
+#         title, ext = os.path.splitext(filename)
+        #slug = title.replace("khoreografiyi", "khoreografii")
+#         if "yi" in title:
+#             print(title)
+
+
+        #slug = slugify(title)
+        #os.rename(os.path.join("static/uploads", filename), os.path.join("static/uploads", slug + ext))
 
     for contentname in os.listdir("content"):
         if contentname is ".DS_Store":
