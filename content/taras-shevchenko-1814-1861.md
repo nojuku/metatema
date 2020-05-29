@@ -54,39 +54,39 @@ March 10, 1861 - Shevchenko died.
 
 He had done many literary works as well as paintings. Here some of his works are represented. Specifically, those that do not fully match the stable image of Taras forced in media and institutions for recent centuries.
 
-![](/uploads/037.jpg)
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/037.jpg)
 
 Taras Shevchenko. Mermaids. Paper, sepia, whitewash (30.3 × 45.4 cm). \[St.Petersburg\]. \[No sooner than III 1859\]. Taras Shevchenko National Museum, inv. g – 280.
 
-![](/uploads/107.jpg)
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/107.jpg)
 
 Taras Shevchenko. Mermaid. Sketch. Stained paper, charcoal, white (35.9 × 28.8 cm). \[St.Petersburg\]. \[No sooner than III 1859\]. Taras Shevchenko National Museum, inv. g – 700.
 
-![](/uploads/108.jpg)
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/108.jpg)
 
 Taras Shevchenko. Mermaid. Sketch. Stained paper, charcoal, white (36 × 28.3 cm). \[St.Petersburg\]. \[No sooner than III 1859\]. Taras Shevchenko National Museum, inv. g – 699.
 
-![](/uploads/109.jpg)
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/109.jpg)
 
 Taras Shevchenko. Mermaid. Sketch. Stained paper, charcoal, white (34.5 × 55.8 cm). \[St.Petersburg\]. \[No sooner than III 1859\]. Taras Shevchenko National Museum, inv. g – 765.
 
-![](/uploads/103.jpg)
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/103.jpg)
 
 Taras Shevchenko. In the harem. Pencil on paper (30.4 × 37 cm). \[St.Petersburg\]. \[No sooner than 21.V 1858\]. Taras Shevchenko National Museum, inv. g – 607.
 
-![](/uploads/241.jpg)
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/241.jpg)
 
 Taras Shevchenko. Plaster casts. Sitter Stephen. Sketch.
 
 \[1838, after May. St. Petersburg\]. Paper, pencil. 21,7 × 28,7 cm. National Museum of Taras Shevchenko, № g-410.
 
-![](/uploads/239.jpg)
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/239.jpg)
 
 Taras Shevchenko. Sitter and student of the Academy of Arts. Sketch. Sitter in Marsyas posture. Thumbnail sketch. Other sketches.
 
 \[1839 – 1840, no later than April 3. St. Petersburg\]. Paper, pencil. 21,7 × 28,7 cm. Taras Shevchenko National Museum, № g -411.
 
-![](/uploads/243.jpg)
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/243.jpg)
 
 Taras Shevchenko. Sleeping woman. Plaster cast boy head. Etudes. Other sketches. \[1839 – 1840, no later than April. St. Petersburg\].
 
@@ -94,7 +94,7 @@ Paper, pencil. 21,7 × 28,7 cm.
 
 Taras Shevchenko National Museum, № g – 412.
 
-![](/uploads/024.jpg)
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/024.jpg)
 
 Taras Shevchenko. A boy with a dog in the woods.
 
@@ -104,7 +104,7 @@ State Tretyakov Gallery (Moscow), № 11 771 – g.
 
 Below ink inscription: Unfinished watercolor by artist Shevchenko.
 
-![](/uploads/065.jpg)
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/065.jpg)
 
 Taras Shevchenko. Two sitters. \[1840, not later than 24 December. St. Petersburg\].
 
@@ -112,7 +112,7 @@ Stained paper, charcoal and chalk. 76 × 57 cm.
 
 Taras Shevchenko National Museum
 
-![](/uploads/271.jpg)
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/271.jpg)
 
 Taras Shevchenko. Anatomical picture.
 
@@ -120,11 +120,11 @@ Taras Shevchenko. Anatomical picture.
 
 Taras Shevchenko National Museum, № g – 432.
 
-![](/uploads/257.jpg)
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/257.jpg)
 
 Taras Shevchenko. Autograph of "Mariana-nun" poem, p. 5
 
-![](/uploads/251.jpg)
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/251.jpg)
 
 Taras Shevchenko. The man on the shore. Sketch.
 
@@ -132,43 +132,43 @@ Taras Shevchenko. The man on the shore. Sketch.
 
 Taras Shevchenko National Museum
 
-![](/uploads/319.jpg)
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/319.jpg)
 
 Taras Shevchenko. "Catherine." Drawed outline of picture. 1843, Jan. 25. St. Petersburg. Paper, pencil, ink pen. Department of manuscripts and textology Shevchenko Literature institute National Academy of Sciences of Ukraine 
 
-![](/uploads/183.jpg)
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/183.jpg)
 
 Taras Shevchenko. The death of Ivan Mazepa. After poem K.F. Ryleev "Vojnarovsky". Sketch. \[1843, 1st half. St. Petersburg – Ukraine (?)\]. Pencil on paper. 17,6 × 26,5 cm. Department of manuscripts and textology Shevchenko Literature institute National Academy of Sciences of Ukraine, fund 1, № 106.
 
-![](/uploads/154.jpg)
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/154.jpg)
 
 Taras Shevchenko. Peasants. Sketch of two figures. Pencil on colored paper. \[Not before May 1843\]. Institute of Literature National Academy of Sciences of Ukraine
 
-![](/uploads/297.jpg)
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/297.jpg)
 
 Taras Shevchenko. Bacchante. Sketches. Pencil on paper (10 × 19,4 cm). \[Not before May 1843\]. Taras Shevchenko National Museum, inv. number g–418.
 
 Dated by the first time stay Shevchenko in Ukraine.
 
-![](/uploads/171.jpg)
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/171.jpg)
 
 Taras Shevchenko. At the table. Sketch. Pencil. \[1839-1843\]. Institute of Literature National Academy of Sciences of Ukraine, inv. number 106 (album 1839 – 1843).
 
-![](/uploads/191.jpg)
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/191.jpg)
 
 Taras Shevchenko. Portrait of a woman. Draft portrait composition etc. Pencil. \[1839-1843\]. Institute of Literature National Academy of Sciences of Ukraine, inv. number 106 (album 1839 – 1843).
 
-![](/uploads/287.jpg)
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/287.jpg)
 
 Taras Shevchenko. Portrait of young man. Near the well. Near the bed. Sketches. Pencil on paper (23 × 16,3 cm). \[1843\]. Taras Shevchenko National Museum, inv. number g – 636
 
-![](/uploads/196.jpg)Taras Shevchenko. Sitter. Studies to exam drawing "Two sitters". \[1840, mid-December. St. Petersburg\]. Paper, pencil. 17,7 × 26,5 cm.
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/196.jpg)Taras Shevchenko. Sitter. Studies to exam drawing "Two sitters". \[1840, mid-December. St. Petersburg\]. Paper, pencil. 17,7 × 26,5 cm.
 
 Department of manuscripts and textology Shevchenko Literature institute
 
 National Academy of Sciences of Ukraine, fund 1, № 106.
 
-![](/uploads/298.jpg)
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/298.jpg)
 
 Taras Shevchenko. Bacchante. Sketches. Pencil on paper (15,7 × 16,2 cm). Not before May 1843
 
@@ -176,7 +176,7 @@ References:
 
 Poet's complete works, published in Kiev by publishing house "Naukova Dumka" in 2001 – 2003th.
 
-![](/uploads/116.jpg)
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/116.jpg)
 
 Taras Shevchenko. Plan of the house. The architectural design. Paper, ink, watercolor (25.3 × 34.2 cm). \[St.Petersburg\]. \[No sooner 18.II 1860\]. Taras Shevchenko National Museum, inv. g – 868.
 
@@ -184,38 +184,38 @@ Lower left in ink inscription:
 
 With this plan Taras Hryhorievych Shevchenko would build own cottage over Dnipro – on Chernecha mountain near town Kaniv in Kyiv province in 1861 – in the same town where now his grave. – Grigory Nikolaevich Chestahivsky.
 
-![](/uploads/059.jpg)
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/059.jpg)
 
 Taras Shevchenko. Woman sitter. Paper, etching 23 × 22.5 cm; 31 × 27,4 cm (43.7 × 34.1 cm). \[St.Petersburg\]. 1860. Taras Shevchenko National Museum, inv. g – 372.
 
-![](/uploads/057.jpg)
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/057.jpg)
 
   
 Taras Shevchenko. Still Life. Paper, pencil, sepia (32.7 × 24.4 cm). \[St.Petersburg\]. \[1860\]. Taras Shevchenko National Museum, inv. g – 701.
 
-![](/uploads/054.jpg)
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/054.jpg)
 
 Taras Shevchenko. Bathsheba. Paper, etching, aquatint (36.2 × 27.1 cm). \[St.Petersburg\]. \[Not later than 30.V\] 1860. Taras Shevchenko National Museum, inv. g – 884.
 
 Right below the image – engraved signature and the date by Shevchenko hand, which was not present on the Briullov's original: Karl Briullov. 1831. Left below the image engraved by his hand: Engraved Shevchenko. 1860.
 
-![](/uploads/058.jpg)
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/058.jpg)
 
 Taras Shevchenko. Boy-sitter. Paper, sepia, red pencil (36.3 × 25.8 cm). \[St.Petersburg\]. \[1860\]. Taras Shevchenko National Museum, inv. g – 702.
 
 In the literature is found with false dating: sometimes at the Academy of Arts
 
-![](/uploads/093.jpg)
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/093.jpg)
 
 Taras Shevchenko. Head of Christ. Sketch. Paper, pencil, ink, pen 10.8 × 10.8 cm (31 × 22 cm). \[Nizhny Novgorod\]. \[26 – 27.XI 1857\]. Institute of Literature National Academy of Sciences of Ukraine, Department of Manuscripts, fund 1, № 104.
 
 Sketch on sheet 44 between diary records of [September 26](https://www.t-shevchenko.name/uk/Journal/1857-09/26.html) and [27](https://www.t-shevchenko.name/uk/Journal/1857-09/27.html) 1857
 
-![](/uploads/123.jpg)
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/123.jpg)
 
 Taras Shevchenko. Portrait of Gabriel Rodzianko. Watercolour (25,1 × 22,1 cm). \[Veselyj Podol\]. \[July 24 – August 19, 1845\]. Taras Shevchenko National Museum, inv. number g – 379.
 
-![](/uploads/312.jpg)
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/312.jpg)
 
 Taras Shevchenko. Sketch – a man with a stick, cartoon figure of military, grotesque self-portrait in profile, and others. Sheet \[1\] of the album "Three years".
 
@@ -223,37 +223,37 @@ Above ink inscription: To the file of 1847, at the first expedition, made by the
 
 In literature one of the cartoons of the picture mistakenly identified with the portrait of Nicholas I.
 
-![](/uploads/333.jpg)
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/333.jpg)
 
 Taras Shevchenko. Witch. Figure after the same poem. Pencil on paper (9,4 × 7 cm). \[Sedniv\]. \[March 1847\]. Taras Shevchenko National Museum, inv. number g – 906.
 
-![](/uploads/047.jpg)Taras Shevchenko. Herself in her house. Paper, etching, aquatint 18.5 × 25.5 cm, 21.8 × 28 cm (31 × 43.7 cm). \[St.Petersburg\]. \[Not later than 11.XI\] 1859. Taras Shevchenko National Museum, inv. g – 369.
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/047.jpg)Taras Shevchenko. Herself in her house. Paper, etching, aquatint 18.5 × 25.5 cm, 21.8 × 28 cm (31 × 43.7 cm). \[St.Petersburg\]. \[Not later than 11.XI\] 1859. Taras Shevchenko National Museum, inv. g – 369.
 
-![](/uploads/104.jpg)
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/104.jpg)
 
 Taras Shevchenko. Male head. Rural music. Outline. Pencil. \[1846 – IV 1847\]. Back of sheet 54 of album 1846 – 1850 № 108
 
-![](/uploads/076.jpg)Taras Shevchenko. Kazakh boy kindles stove. Outline. Pencil. \[6.X 1848 – 2.IV 1849\]. Sheet 24 of album 1846 – 1850 № 108
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/076.jpg)Taras Shevchenko. Kazakh boy kindles stove. Outline. Pencil. \[6.X 1848 – 2.IV 1849\]. Sheet 24 of album 1846 – 1850 № 108
 
-![](/uploads/110.jpg)Taras Shevchenko. Selene and Endymion. A man in uniform. Sketch. Pencil. \[VI 1848 – 1849\]. Back of sheet 2 of album 1846 – 1850 № 109
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/110.jpg)Taras Shevchenko. Selene and Endymion. A man in uniform. Sketch. Pencil. \[VI 1848 – 1849\]. Back of sheet 2 of album 1846 – 1850 № 109
 
-![](/uploads/111.jpg)Taras Shevchenko. Lot with his daughters. Daughter of Chios potter. Outline sketches. Pencil. \[VI 1848 – 1849\]. Sheet 3 of album 1846 – 1850 № 109
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/111.jpg)Taras Shevchenko. Lot with his daughters. Daughter of Chios potter. Outline sketches. Pencil. \[VI 1848 – 1849\]. Sheet 3 of album 1846 – 1850 № 109
 
 From left to right and top four sketches of the biblical story (perhaps "The daughters of Lot", also known as "King David"). Bottom middle – a sketch to work "Daughter of Chios' potter". A more developed version of this sketch see number [135](https://www.t-shevchenko.name/en/Painting/Album1846-50N109/OnTheDeckOfTheSchoonerFol28V.html). Drawing on the same plot Shevchenko finished much later, as he [wrote in a letter](https://www.t-shevchenko.name/uk/Corresp/1857/1857-05-08.html#Line7) to Br. Zaleski on May 10, 1857:
 
 "Of the pieces sent to you one may seem to you to be incomprehensible. This is the legend of the origin of the painting. Daughter of Chios potter painted on the hut doors silhouette of her lover, and she was the first woman-painter".
 
-![](/uploads/168.jpg)Taras Shevchenko. Milo of Croton. Selene and Endymion. Sketches. Pencil on paper (10.6 × 28.6 cm). \[Novopetrovsk fort\]. \[1856\].
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/168.jpg)Taras Shevchenko. Milo of Croton. Selene and Endymion. Sketches. Pencil on paper (10.6 × 28.6 cm). \[Novopetrovsk fort\]. \[1856\].
 
-![](/uploads/130.jpg)Taras Shevchenko. Mangyshlak garden. Sketch. Paper, pencil, ink, sepia (21.2 × 28.2 cm). \[1851 – 1852\]. Taras Shevchenko National Museum, inv. g – 621.
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/130.jpg)Taras Shevchenko. Mangyshlak garden. Sketch. Paper, pencil, ink, sepia (21.2 × 28.2 cm). \[1851 – 1852\]. Taras Shevchenko National Museum, inv. g – 621.
 
 In the literature is found under the title: "Forest by pen and paint", "Unfinished drawing"
 
-![](/uploads/005.jpg)Taras Shevchenko. Trio. Paper, sepia (18.3 × 25.4 cm). \[VI – VIII 1851\]. Taras Shevchenko National Museum, inv. g – 298.
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/005.jpg)Taras Shevchenko. Trio. Paper, sepia (18.3 × 25.4 cm). \[VI – VIII 1851\]. Taras Shevchenko National Museum, inv. g – 298.
 
-![](/uploads/018.jpg)
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/018.jpg)
 
-Taras Shevchenko. Song of the young Kazakhs. Paper, sepia (25.2 × 17.5 cm). \[VI 1851 – VII 1857\]. Property I. Zilberstein, Moscow.![](/uploads/032.jpg)
+Taras Shevchenko. Song of the young Kazakhs. Paper, sepia (25.2 × 17.5 cm). \[VI 1851 – VII 1857\]. Property I. Zilberstein, Moscow.![](https://res.cloudinary.com/dfmbidsgr/image/upload/032.jpg)
 
 Taras Shevchenko. Baygush. Paper, sepia (28.8 × 22 cm). \[Novopetrovsk fort\] \[Not later than autumn 1853\]. State Museum of Fine Arts in Kharkov, inv. g – 1250.
 
@@ -263,8 +263,8 @@ Baygush – in the past Kazakh poor children who are permitted to beg.
 
 This picture Shevchenko [mentioned](https://www.t-shevchenko.name/uk/Corresp/1852-55/1855.html#Line3) in his letter to Br. Zaleski in Autumn 1853: "With last mail sent you Baygush, sheltered them, if you can, anywhere, but before you are sent them into the wrong people, make for me, if it's not hard, photographic copies in size of ordinary envelope, I would like to donate them Agate Uskova, she loves them".
 
-_![](/uploads/084.jpg)Taras Shevchenko. Water lily. Sketch. Pencil on paper (16.2 × 22.6 cm). \[VI – VIII 1859\]._
+_![](https://res.cloudinary.com/dfmbidsgr/image/upload/084.jpg)Taras Shevchenko. Water lily. Sketch. Pencil on paper (16.2 × 22.6 cm). \[VI – VIII 1859\]._
 
-_![](/uploads/031.jpg)_
+_![](https://res.cloudinary.com/dfmbidsgr/image/upload/031.jpg)_
 
 _Taras Shevchenko. Mother's prayer. Paper, sepia. \[Novopetrovsk fort\]. \[Summer 1853\]._

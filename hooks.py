@@ -31,27 +31,31 @@ def fixNames():
             resu = re.search(regex, line)
             if resu is not None:
                 resu = re.findall(regex, line)
+                i = 0
                 for item in resu:
                     name = item[1]
                     name = name[10:-1]
-                    name, ext2 = os.path.splitext(name)
-                    nameslug = slugify(name)
-                    nametofuzz = nameslug + ext2
-                    for filename in os.listdir("static/uploads"):
-                        if fuzz.ratio(filename, nametofuzz) > 90:
-                            print("MATCH")
-                            nameslugcomp = "(" + "/uploads/" + filename + ")"
+                    name = "(https://res.cloudinary.com/dfmbidsgr/image/upload/" + name + ")"
+                    #name, ext2 = os.path.splitext(name)
 
-                        else: nameslugcomp = "(" + "/uploads/" + nametofuzz + ")"
+#                     nameslug = slugify(name)
+#                     nametofuzz = nameslug + ext2
+#                     for filename in os.listdir("static/uploads"):
+#                         if fuzz.ratio(filename, nametofuzz) > 90:
+#                             print("MATCH")
+#                             nameslugcomp = "(" + "/uploads/" + filename + ")"
+#
+#                         else: nameslugcomp = "(" + "/uploads/" + nametofuzz + ")"
 
                     nametoreplace = item[1]
 
-                    line = line.replace(nametoreplace, nameslugcomp)
+                    line = line.replace(nametoreplace, name)
 
                 print(line, end='')
 
             else:
                 print(line, end='')
+
 
 def fuzzymatch(name):
 

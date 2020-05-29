@@ -8,7 +8,7 @@ title = "KRUK Hryhoriy Yakovlevich 1911 -1988 "
 +++
 Hryhoriy Kruk next to his work, Berlin, 1945  
   
-![](/uploads/caneqilxeaenymx.jpeg)
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/caneqilxeaenymx.jpeg)
 
 (30. 10. 1911, Bratyshev village, now Tlumatz district of Ivano-Frankivsk region - 05. 12. 1988, Munich) - sculptor, graphic artist.
 
@@ -32,6 +32,6 @@ The fulness of the volume is caused by the static and seclusion of the material.
 
 Kruk Introduced the story of Ukrainian peasants to the art world (1964 monument in the town of Gmünd (Austria) to expatriates from Galicia who died in the camps). K.'s works have been exhibited in Asia, Europe, and the USA. Person. exhibitions - in Munich (1946–47, 1952, 1960, 1963–64, 1969, posthumous - 2011), Paris, London, Edinburgh (all - 1954), Bonnie (1955), Rome (1957), New York and Philadelphia (1961), Vienna (1962), Berlin (1963), Toronto (1968). In recent years he has lived in a shelter for the elderly. Creature. Int. fund of K., schools. Museum - in Bratislava, 2006 - Museum-room in his native village, 2011 - K. Museum in his name in Königsbrunn (Germany). In Ivano-Frankivsk a street was named after him. Archive of K. and Assoc. part of the works are stored in the UVU (Munich), part of the works - in the Nat. Museums (Paris), Brittany. museums (London), NHM (Kiev), Ivano-Frankivsk.
 
-![](/uploads/16-3.jpg)![](/uploads/g-kruk-skulptura-selianina.png)![](/uploads/unnamed.jpg)
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/16-3.jpg)![](https://res.cloudinary.com/dfmbidsgr/image/upload/g-kruk-skulptura-selianina.png)![](https://res.cloudinary.com/dfmbidsgr/image/upload/unnamed.jpg)
 
-![](/uploads/screen-shot-2020-04-29-at-10-25-50-am.png)![](/uploads/g-kruk-skulptura-zhenshchiny-s-polotentsem.png)![](/uploads/1248656-1253592.jpg)![](/uploads/rodina-bighenciv-1938-beton-copy.jpg)
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/screen-shot-2020-04-29-at-10-25-50-am.png)![](https://res.cloudinary.com/dfmbidsgr/image/upload/g-kruk-skulptura-zhenshchiny-s-polotentsem.png)![](https://res.cloudinary.com/dfmbidsgr/image/upload/1248656-1253592.jpg)![](https://res.cloudinary.com/dfmbidsgr/image/upload/rodina-bighenciv-1938-beton-copy.jpg)
