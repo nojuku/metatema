@@ -78,11 +78,7 @@ Julian Dorosh, Wedding Outfit of a Young, Rakovets-on-Dnistr village, the early 
 
 Julian Dorosh, The Wheat Sifter, the early 1930s
 
-Julian Dorosh, The Wheat Sifter, the early 1930s
-
 ![](https://res.cloudinary.com/dfmbidsgr/image/upload/v1590720725/images/iulian-dorosh-gagilka-ser-1930-kh-rr-svitlo-i-tin-1936-ch-5.jpg)
-
-Julian Dorosh, Spring (Maybe Easter) Singing, mid-1930s
 
 Julian Dorosh, Spring (Maybe Easter) Singing, mid-1930s
 
@@ -104,7 +100,7 @@ Julian Dorosh, Clouds, the early 1930s
 
 Julian Dorosh, Seamstress, mid-1930s
 
-![](https://res.cloudinary.com/dfmbidsgr/image/upload/v1590720725/images/45-dragged-2-1.jpg)Julian Dorosh, Sewer Pidlysnyuk Paraska Ivanivna, September 1954, Semenivka village
+![](https://res.cloudinary.com/dfmbidsgr/image/upload/v1590720725/images/45-dragged-2-1.jpg)
 
 Julian Dorosh, Over Furrier’s, Boytsan Ivan Fedorovych, September 1954, Semenivka village
 
